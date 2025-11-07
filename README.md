@@ -1,4 +1,7 @@
+# Online Retail Sales Analysis Dashboard
+
 ## Project Overview
+
 
 This project undertakes a comprehensive data analysis of sales transactions from a UK-based online retail store spanning from December 2010 to December 2011. The analytical pipeline leverages **Python** for its robust data manipulation and statistical capabilities, moving from raw data to a clean, enriched dataset. Subsequently, **Power BI** is utilized to develop an interactive and visually engaging dashboard, translating complex data insights into an accessible format for business stakeholders.
 
@@ -11,14 +14,6 @@ The core objective is to uncover critical patterns and actionable intelligence w
 -   **Geographical Sales Distribution:** Understanding revenue contributions from various countries, with a detailed focus on the primary UK market versus international sales.
 
 This project demonstrates proficiency in end-to-end data analysis, from raw data processing with Python to professional dashboard creation with Power BI, aiming to provide strategic insights for optimizing inventory, marketing efforts, and operational efficiency.
-
-
-
-# Online Retail Sales Analysis Dashboard
-
-## Project Overview
-
-This project provides a comprehensive analysis of sales data from a UK-based online retail store. The goal is to uncover key sales trends, identify top-performing products and customer segments, and reveal geographical and temporal patterns in purchasing behavior. The insights derived from this analysis are presented through an interactive dashboard built in Power BI, designed to be easily digestible for business stakeholders.
 
 ## Business Questions Addressed
 
