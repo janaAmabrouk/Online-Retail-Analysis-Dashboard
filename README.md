@@ -67,6 +67,7 @@ Here's an overview of the interactive dashboard:
 -   **Total Revenue:** The grand total of all sales.
 -   **Total Orders:** The distinct count of customer orders.
 -   **Total Unique Products:** The number of different products sold.
+-   **Average Order Value:** The average revenue generated per order.
 
 ### Monthly Revenue Trend
 
