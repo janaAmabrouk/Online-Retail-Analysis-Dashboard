@@ -3,7 +3,7 @@
 ## Project Overview
 
 
-This project undertakes a comprehensive data analysis of sales transactions from a UK-based online retail store spanning from December 2010 to December 2011. The analytical pipeline leverages **Python** for its robust data manipulation and statistical capabilities, moving from raw data to a clean, enriched dataset. Subsequently, **Power BI** is utilized to develop an interactive and visually engaging dashboard, translating complex data insights into an accessible format for business stakeholders.
+This project undertakes a comprehensive data analysis of sales transactions from a UK-based online retail store spanning from December 2010 to December 2011. The analytical pipeline leverages **Python** for robust data manipulation and statistical analysis, transforming raw data into a clean, enriched dataset. Subsequently, **Power BI** is used to develop an interactive, visually engaging dashboard that translates complex data insights into an accessible format for business stakeholders.
 
 The core objective is to uncover critical patterns and actionable intelligence within the sales data, specifically addressing:
 
@@ -52,7 +52,7 @@ The raw data was initially processed and cleaned using Python, resulting in the 
 -   **Dominant Market Share:** The United Kingdom accounts for over 80% of the total revenue, highlighting its critical importance to the business.
 -   **Consistent Growth:** The monthly revenue trend generally shows an upward trajectory, indicating healthy business growth over the analyzed period.
 -   **Top Performers:** Specific products and categories consistently drive the highest revenue, indicating potential for targeted marketing or inventory management.
--   **Peak Activity:** Identifying specific days and hours with highest sales can inform operational decisions like staffing and promotional timing.
+-   **Peak Activity:** Identifying specific days and hours with the highest sales can inform operational decisions like staffing and promotional timing.
 
 ## Dashboard Visualizations
 
@@ -64,7 +64,6 @@ Here's an overview of the interactive dashboard:
 ### Key Performance Indicators (KPIs)
 
 ![KPIs](images/kpis.png)
-*(Replace `images/kpis.png` with a path to your screenshot of the KPI cards)*
 -   **Total Revenue:** The grand total of all sales.
 -   **Total Orders:** The distinct count of customer orders.
 -   **Total Unique Products:** The number of different products sold.
@@ -72,37 +71,31 @@ Here's an overview of the interactive dashboard:
 ### Monthly Revenue Trend
 
 ![Monthly Revenue Trend](images/monthly_revenue_trend.png)
-*(Replace `images/monthly_revenue_trend.png` with a path to your screenshot of the line chart)*
 -   A line chart displaying the sum of `total_item_price` over `order_date` (Year, Month) to visualize sales performance trends.
 
 ### Revenue Distribution (UK vs. Other Countries)
 
 ![Revenue Distribution Donut Chart](images/revenue_distribution_donut.png)
-*(Replace `images/revenue_distribution_donut.png` with a path to your screenshot of the donut chart)*
 -   A donut chart illustrating the percentage contribution of the United Kingdom versus all other countries to the total revenue, using a custom `Country Group` column for clarity.
 
 ### Top 10 Products by Revenue
 
 ![Top 10 Products Bar Chart](images/top_products_bar.png)
-*(Replace `images/top_products_bar.png` with a path to your screenshot of the top products bar chart)*
 -   A horizontal bar chart showcasing the ten products that generated the highest revenue, allowing for quick identification of best-sellers.
 
 ### Top Product Categories by Revenue
 
 ![Top Categories Bar Chart](images/top_categories_bar.png)
-*(Replace `images/top_categories_bar.png` with a path to your screenshot of the top categories bar chart)*
 -   A bar chart detailing the most lucrative product categories, useful for strategic planning and inventory focus.
 
 ### Revenue by Day of Week
 
 ![Revenue by Day of Week Chart](images/revenue_by_day_of_week.png)
-*(Replace `images/revenue_by_day_of_week.png` with a path to your screenshot of the day of week chart)*
 -   A column chart showing the total revenue for each day of the week, helping to identify busiest sales days.
 
 ### Revenue by Hour of Day
 
 ![Revenue by Hour of Day Chart](images/revenue_by_hour_of_day.png)
-*(Replace `images/revenue_by_hour_of_day.png` with a path to your screenshot of the hour of day chart)*
 -   A column chart illustrating revenue distribution across the hours of the day, useful for understanding peak operational times.
 
 ## How to View and Interact with the Dashboard
