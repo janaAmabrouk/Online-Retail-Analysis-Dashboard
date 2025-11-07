@@ -1,3 +1,19 @@
+## Project Overview
+
+This project undertakes a comprehensive data analysis of sales transactions from a UK-based online retail store spanning from December 2010 to December 2011. The analytical pipeline leverages **Python** for its robust data manipulation and statistical capabilities, moving from raw data to a clean, enriched dataset. Subsequently, **Power BI** is utilized to develop an interactive and visually engaging dashboard, translating complex data insights into an accessible format for business stakeholders.
+
+The core objective is to uncover critical patterns and actionable intelligence within the sales data, specifically addressing:
+
+-   **Data Transformation & Feature Engineering:** Using Python to clean raw data, handle missing values, create new metrics (e.g., `total_item_price`, `order_year`, `order_month`, `order_hour`, `order_day_of_week`), and prepare the dataset for in-depth analysis.
+-   **Key Performance Indicators (KPIs):** Monitoring essential business metrics like total revenue, total orders, and unique product sales.
+-   **Temporal Sales Analysis:** Identifying trends and seasonality in sales over months, days of the week, and hours of the day.
+-   **Product & Category Performance:** Pinpointing top-selling products and most profitable categories.
+-   **Geographical Sales Distribution:** Understanding revenue contributions from various countries, with a detailed focus on the primary UK market versus international sales.
+
+This project demonstrates proficiency in end-to-end data analysis, from raw data processing with Python to professional dashboard creation with Power BI, aiming to provide strategic insights for optimizing inventory, marketing efforts, and operational efficiency.
+
+
+
 # Online Retail Sales Analysis Dashboard
 
 ## Project Overview
