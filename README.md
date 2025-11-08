@@ -30,7 +30,7 @@ This dashboard aims to answer critical business questions such as:
 
 The dataset used for this analysis is a transactional dataset containing all purchases made by customers from a UK-based online retail store between December 1, 2010, and December 9, 2011. It includes details such as invoice number, product description, quantity, unit price, invoice date, customer ID, and country of purchase.
 
-The raw data was initially processed and cleaned using Python, resulting in the `online_retail_cleaned_original_country.csv` file, which serves as the data source for the Power BI dashboard.
+The raw data was initially processed and cleaned using Python, resulting in the `online_retail_cleaned.csv` file, which serves as the data source for the Power BI dashboard.
 
 ## Tools and Technologies
 
