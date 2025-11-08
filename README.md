@@ -41,9 +41,9 @@ The raw data was initially processed and cleaned using Python, resulting in the 
 
 - `Online_Retail_Analysis_Dashboard.pbix`: The Power BI Desktop file containing the interactive dashboard.
 - `online_retail_cleaned.csv`: The cleaned and prepared dataset used in the Power BI dashboard.
-- `[Online Retail].ipynb` or `.py`: (Optional but Recommended) The Jupyter Notebook or Python script detailing the data cleaning and preparation steps.
+- `[Online Retail].ipynb` or `.py`: The Jupyter Notebook or Python script detailing the data cleaning and preparation steps.
 - `README.md`: This file provides an overview of the project.
-- `images/`: (Optional) A directory for storing screenshots of the dashboard and key visualizations.
+- `images/`: A directory for storing screenshots of the dashboard and key visualizations.
 
 ## Key Insights from the Dashboard
 
@@ -67,6 +67,7 @@ Here's an overview of the interactive dashboard:
 -   **Total Revenue:** The grand total of all sales.
 -   **Total Orders:** The distinct count of customer orders.
 -   **Total Unique Products:** The number of different products sold.
+-   **Average Order Value:** The average revenue generated per order.
 
 ### Monthly Revenue Trend
 
