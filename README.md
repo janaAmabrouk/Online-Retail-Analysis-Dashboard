@@ -15,6 +15,8 @@ The core objective is to uncover critical patterns and actionable intelligence w
 
 This project demonstrates proficiency in end-to-end data analysis, from raw data processing with Python to professional dashboard creation with Power BI, aiming to provide strategic insights for optimizing inventory, marketing efforts, and operational efficiency.
 
+![Dashboard](images/dashboard.png)
+
 ## Business Questions Addressed
 
 This dashboard aims to answer critical business questions such as:
@@ -41,7 +43,7 @@ The raw data was initially processed and cleaned using Python, resulting in the 
 
 - `Online_Retail_Analysis_Dashboard.pbix`: The Power BI Desktop file containing the interactive dashboard.
 - `online_retail_cleaned.csv`: The cleaned and prepared dataset used in the Power BI dashboard.
-- `[Online Retail].ipynb` or `.py`: The Jupyter Notebook or Python script detailing the data cleaning and preparation steps.
+- `[Online Retail].ipynb`: The Jupyter Notebook or Python script detailing the data cleaning and preparation steps.
 - `README.md`: This file provides an overview of the project.
 - `images/`: A directory for storing screenshots of the dashboard and key visualizations.
 
